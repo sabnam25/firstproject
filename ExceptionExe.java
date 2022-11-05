@@ -12,5 +12,7 @@ public class ExceptionExe {
 	 Ne.printStackTrace();
 	 }
 	 System.out.println("end");
+	 
+	 System.out.println("closed");
  }
 }
